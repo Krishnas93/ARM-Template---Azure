@@ -126,6 +126,8 @@ Connect-AzAccount
 ````
 Then once connected you can follow the above commands on creating the particular resources .
 
+The above are the steps for ARM Template 
+
 # REFERENCE DOCS 
 https://docs.microsoft.com/en-in/azure/azure-resource-manager/templates/deploy-powershell
 https://docs.microsoft.com/en-in/azure/azure-resource-manager/templates/quickstart-create-templates-use-visual-studio-code?tabs=CLI
